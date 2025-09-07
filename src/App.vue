@@ -125,7 +125,7 @@ const hideQR = () => {
         <section class="links-section">
           <div class="links-grid">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/945967063"
               target="_blank"
               class="link-item"
               >{{ content.links.github }}</a
