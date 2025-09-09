@@ -38,7 +38,7 @@ const content = computed(() => {
         wechatLabel: "WeChat ID",
         qqTip: "Copy number to add friend",
         wechatTip: "Copy WeChat ID to add friend",
-        qqNumber: "9459667063",
+        qqNumber: "945967063",
         wechatId: "DQPLN0617",
       },
     };
@@ -60,7 +60,7 @@ const content = computed(() => {
         wechatLabel: "微信号",
         qqTip: "复制号码添加好友",
         wechatTip: "复制微信号添加好友",
-        qqNumber: "9459667063",
+        qqNumber: "945967063",
         wechatId: "DQPLN0617",
       },
     };
